@@ -10,23 +10,21 @@ A simple and intuitive To-Do Web Application that helps users manage tasks effic
 
 ✔️ Mark tasks as complete/incomplete
 
-🌙 Light/Dark mode (if applicable)
+🌙 Light/Dark mode 
 
 📱 Responsive design for mobile and desktop
 
 🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-(or React if you used it)
-
-Backend: (Optional – Node.js, Express if included)
-
-Database: (Optional – LocalStorage, Firebase, MongoDB, etc.)
+Frontend: HTML
 
 📸 Screenshots
-(Insert screenshots here, if available)
+![image](https://github.com/user-attachments/assets/a998cdc1-56d7-4fd7-9dfd-497ee89e7d92)
+![image](https://github.com/user-attachments/assets/3e97d7df-5beb-41a3-b7fa-7766ab45f1ff)
+
+
 
 📦 How to Run Locally
-Clone the repository
+Clone the repository https://github.com/sangamjai/SCT_WD_04/blob/main/Todowebapp
 
 bash
 Copy
@@ -34,11 +32,8 @@ Edit
 git clone 
 cd todo-web-app
 Open index.html in your browser
-(or run with Live Server if using VS Code)
 
-🌐 Live Demo
-👉 Click here to view the live app
-(Add your live link if deployed on Vercel, Netlify, GitHub Pages, etc.)
+
 
 📈 Learning & Improvements
 This project helped me improve my:
@@ -49,7 +44,6 @@ UI/UX design principles
 
 Code organization and structure
 
-LocalStorage or backend integration
 
 🙌 Acknowledgements
 Special thanks to:
@@ -59,5 +53,5 @@ Online tutorials and documentation
 Open-source contributors for inspiration
 
 📫 Contact
-Feel free to connect on LinkedIn or reach out via email: your.email@example.com
+Feel free to connect on LinkedIn or reach out via email: jainsangam3@gmail.com
 
